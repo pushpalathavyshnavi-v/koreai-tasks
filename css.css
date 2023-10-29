@@ -1,0 +1,12 @@
+body{
+    padding: 2px;
+
+}
+button{
+    background-color:aqua;
+    color: navy
+}
+input{
+    border-color: blueviolet;
+    color:navy;
+}
